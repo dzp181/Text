@@ -1,6 +1,5 @@
 # Text
-
-[en](https://github.com/dzp181/Text/blob/master/README.en.md)
+[中文](https://github.com/dzp181/Text/blob/master/README.md)
 
 *   Twitter Text Obj：Twitter 的文本处理库的 Objective-C 实现。[官网](https://github.com/twitter/twitter-text)
 *   Nimbus：Nimbus 是一个为高级 iOS 软件设计师制作工具包。[官网](http://nimbuskit.info/)
@@ -15,3 +14,4 @@
 *   Money：为与钱和现金相关工作的的 Swift 值类型。★[官网](https://github.com/danthorpe/Money)
 *   PhoneNumberKit：用于解析，格式化和验证国际电话号码的 Swift 框架，由谷歌的 libphonenumber 库支持。★[官网](https://github.com/marmelroy/PhoneNumberKit)
 *   YYText：iOS 上用于显示和编辑富文本的强大文本框架。[官网](https://github.com/ibireme/YYText)
+
